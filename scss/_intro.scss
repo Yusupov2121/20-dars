@@ -1,0 +1,42 @@
+.intro{
+    margin-top: 80px;
+    .intro-title{
+        font-weight: 700;
+        font-size: 32px;
+        color: black;
+    }
+    .intro-hotel{
+        margin-top: 40px;
+        display: flex;
+        gap: 24px;
+    }
+    .intro-bottom{
+        background-image: url(/images/intro5.svg);
+        width: 1127px;
+        border-radius: 20px;
+        height: 395px;
+        margin-top: 72px;
+padding-left: 81px;
+padding-top: 80px;
+
+.intro-bottom-title{
+    font-weight: 700;
+    color: white;
+    width: 678px;
+    line-height: 64.39px;
+    font-size: 56px;
+}
+
+.intro-bottom-text{
+    margin-top: 24px;
+    font-weight: 400;
+font-size: 32px;
+line-height: 41px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+    }
+
+}

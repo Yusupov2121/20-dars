@@ -1,0 +1,176 @@
+.hero{
+    background-image: url(/images/hero.svg);
+    width: 1366px;
+height: 543.74px;
+position: absolute;
+left: 0;
+margin-top: 140px;
+padding-left: 140px;
+padding-top: 60px;
+padding-right: 120px;
+display: flex;
+align-items: flex-start;
+gap: 73px;
+
+
+
+
+
+.hero-texts{
+    width: 771.93px;
+height: 163px;
+}
+
+.hero-texts{
+
+
+.hero-title{
+    font-weight: 700;
+font-size: 48px;
+line-height: 55px;
+margin-top: 15px;
+color: #FFFFFF;
+}
+.hero-p{
+    
+width: 771.93px;
+height: 84px;
+
+font-family: 'Helvetica';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 28px;
+margin-left: 10px;
+margin-top: 24px;
+color: #FFFFFF;
+}
+
+
+.mobile-hero{
+
+.hero-button{
+    width: 91px;
+height: 39px;
+
+background: rgba(255, 255, 255, 0.4);
+backdrop-filter: blur(16px);
+/* Note: backdrop-filter has minimal browser support */
+border: none;
+margin: 32px 10px;
+border-radius: 16px;
+
+background: rgba(255, 255, 255, 0.4);
+backdrop-filter: blur(16px);
+/* Note: backdrop-filter has minimal browser support */
+color: #FFFFFF;
+border-radius: 16px;
+}
+
+.hero-span{
+
+
+
+
+    margin-left: 10px;
+font-family: 'Helvetica';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 23px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+
+}
+
+
+}
+
+
+.hero-small{
+    font-family: 'Helvetica';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 16px;
+/* identical to box height */
+margin-left: 10px;
+
+color: #FFFFFF;
+}
+.hero-input{
+    display: flex;
+align-items: center;
+padding: 8px 16px;
+gap: 8px;
+justify-content: space-between;
+width: 462px;
+height: 58px;
+margin-left: 10px;
+margin-top: 16px;
+padding-left: 24px;
+padding-right: 16px;
+background: rgba(255, 255, 255, 0.4);
+backdrop-filter: blur(16px);
+/* Note: backdrop-filter has minimal browser support */
+
+border-radius: 16px;
+
+
+
+
+
+.inputs-number{
+    
+font-family: 'Helvetica';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 18px;
+
+color: #FFFFFF;
+
+opacity: 0.7;
+}
+
+.input-button{
+    display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 12px 32px;
+gap: 8px;
+
+width: 188px;
+height: 42px;
+border: none;
+background: #FFFFFF;
+border-radius: 32px;
+
+font-family: 'Helvetica';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 18px;
+
+color: #2659C3;
+
+opacity: 0.7;
+}
+}
+.google{
+    position: absolute;
+    top: 270px;
+    left: 1065px;
+    display: flex;
+    flex-direction: column;
+    gap: 27px;
+}
+
+
+
+
+}
+}

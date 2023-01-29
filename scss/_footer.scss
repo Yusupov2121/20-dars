@@ -1,0 +1,97 @@
+.footer{
+    width: 1366px;
+    background: #141414;
+    height: 288px;
+    margin-top: 682px;
+    padding-left: 120px;padding-top: 42px;
+    padding-right: 120px;
+display: flex;
+align-items: flex-start;
+justify-content: space-between;
+
+
+.logo-footer{
+
+
+    margin-top: 20px;
+
+    .logo-href{
+
+
+        
+font-family: 'Helvetica';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 37px;
+/* identical to box height */
+
+color: #FFFFFF;
+    }
+}
+
+
+
+.nav-footer{
+
+.footer-ul{
+
+
+
+
+
+
+    .footer-ul-li{
+
+
+        font-family: 'Netflix Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 17px;
+/* identical to box height */
+margin-top: 15px;
+
+/* Gray */
+
+color: #808080;
+
+
+
+    }
+    .border{
+
+        width: 104px;
+        height: 37px;
+        border: 1px solid #808080;
+        display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 10px 15px;
+
+    }
+}
+
+
+
+}
+.icons{
+margin-top: 64px;
+display: flex;
+gap: 20px;
+position: absolute;
+right: 120px;
+}
+.line{
+display: flex;
+flex-direction: column;
+justify-content: flex-end;
+
+
+
+
+}
+}
+
+
+
